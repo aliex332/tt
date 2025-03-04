@@ -1,2 +1,2 @@
-Version 0.82
+Version 0.83
 TikTok 38.7.0
